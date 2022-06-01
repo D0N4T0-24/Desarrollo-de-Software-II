@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice2 Deducciones", "practice2 Deducciones\practice2 Deducciones.csproj", "{C96D18D0-A165-45A3-95C8-F76637B7F9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96D18D0-A165-45A3-95C8-F76637B7F9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96D18D0-A165-45A3-95C8-F76637B7F9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96D18D0-A165-45A3-95C8-F76637B7F9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96D18D0-A165-45A3-95C8-F76637B7F9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC4EFD00-CB6D-49DD-872C-A262C0FE4456}
+	EndGlobalSection
+EndGlobal

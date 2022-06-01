@@ -1,0 +1,17 @@
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\bin\Debug\net6.0-windows\practice2 Deducciones.exe
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\bin\Debug\net6.0-windows\practice2 Deducciones.deps.json
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\bin\Debug\net6.0-windows\practice2 Deducciones.runtimeconfig.json
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\bin\Debug\net6.0-windows\practice2 Deducciones.dll
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\bin\Debug\net6.0-windows\practice2 Deducciones.pdb
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.csproj.AssemblyReference.cache
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2_Deducciones.Form1.resources
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.csproj.GenerateResource.cache
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.AssemblyInfoInputs.cache
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.AssemblyInfo.cs
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.csproj.CoreCompileInputs.cache
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.dll
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\refint\practice2 Deducciones.dll
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.pdb
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\practice2 Deducciones.genruntimeconfig.cache
+C:\Users\donat\source\repos\Projects\practice2 Deducciones\practice2 Deducciones\obj\Debug\net6.0-windows\ref\practice2 Deducciones.dll
