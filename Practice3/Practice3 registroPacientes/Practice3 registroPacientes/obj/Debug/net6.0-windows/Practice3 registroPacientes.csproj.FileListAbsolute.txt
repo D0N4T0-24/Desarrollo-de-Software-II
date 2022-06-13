@@ -1,0 +1,18 @@
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\bin\Debug\net6.0-windows\Practice3 registroPacientes.exe
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\bin\Debug\net6.0-windows\Practice3 registroPacientes.deps.json
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\bin\Debug\net6.0-windows\Practice3 registroPacientes.runtimeconfig.json
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\bin\Debug\net6.0-windows\Practice3 registroPacientes.dll
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\bin\Debug\net6.0-windows\Practice3 registroPacientes.pdb
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.csproj.AssemblyReference.cache
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3_registroPacientes.Form1.resources
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3_registroPacientes.Properties.Resources.resources
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.csproj.GenerateResource.cache
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.AssemblyInfoInputs.cache
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.AssemblyInfo.cs
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.csproj.CoreCompileInputs.cache
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.dll
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\refint\Practice3 registroPacientes.dll
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.pdb
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\Practice3 registroPacientes.genruntimeconfig.cache
+C:\Users\donat\source\repos\Practice3 registroPacientes\Practice3 registroPacientes\obj\Debug\net6.0-windows\ref\Practice3 registroPacientes.dll
